@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:4F46E5&height=200&section=header&text=JayaHari%20E&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="JayaHari E Banner"/>
 </p>
 
-<h2 align="center">💻 Computer Science Engineer | ⚡ AI & Web Development Enthusiast | ☁ Future Innovator</h2>
+<h2 align="center">💻 Computer Science Engineer |  ☁ Future Innovator</h2>
 
 <p align="center">
 I am a <b>Computer Science Engineering student</b> passionate about <b>AI, Web Development, and Problem Solving</b>.  
