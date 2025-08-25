@@ -1,66 +1,50 @@
-<!-- Profile Header -->
-<h1 align="center">👋 Hi, I'm <span style="color:#ff4081">JayaHari E</span></h1>
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:4F46E5&height=200&section=header&text=JayaHari%20E&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="JayaHari E Banner"/>
+</p>
+
+<h2 align="center">💻 Computer Science Engineer | ⚡ AI & Web Development Enthusiast | ☁ Future Innovator</h2>
 
 <p align="center">
-  📍 Chennai, India <br>
-  📧 <a href="mailto:jayahariexiib@gmail.com">jayahariexiib@gmail.com</a> | 📱 7550162210 <br>
-  🌐 <a href="https://github.com/jayahari10001">GitHub</a> • <a href="https://www.linkedin.com/in/jayahari-e-756281288">LinkedIn</a>
+I am a <b>Computer Science Engineering student</b> passionate about <b>AI, Web Development, and Problem Solving</b>.  
+I love creating impactful projects, learning emerging technologies, and contributing to innovative solutions.
 </p>
 
 ---
 
-## 🎯 About Me  
-💡 **Aspiring Computer Science Engineer** passionate about **AI, software development, and problem-solving**.  
-I love building impactful projects, experimenting with new technologies, and collaborating on innovative ideas.  
+## 📌 Featured Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **AI-Driven Water Quality Prediction** | AI system using ML models (**Random Forest, Logistic Regression, SVM**) to predict water contamination & ensure safety. | Google Colab, Python (ML), HTML, CSS, JS |
+| **CBOT: Chatbot for Learning C** | Chatbot powered by **Transformer model** to teach C programming interactively. | Python, Transformer, HTML, CSS, JS |
 
 ---
 
-## 🛠️ Tech Stack  
+## 🚀 Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>  
-
----
-
-## 🚀 Projects  
-
-### 🔹 AI-Driven Water Quality Prediction  
-📆 *(Aug 2023 – Jan 2024)*  
-**Tech:** Google Colab, ML Libraries, HTML, CSS, JavaScript  
-
-✅ Built an **AI-powered system** to predict water contamination risks using **Random Forest, Logistic Regression, and SVM**.  
-✅ Designed a **web-based platform** for real-time monitoring in **agriculture, urban planning, and conservation**.  
-
----
-
-### 🔹 CBOT: Chatbot for Learning C Programming  
-📆 *(Oct 2022 – Jan 2023)*  
-**Tech:** Transformer Architecture, Python, HTML-CSS-JS, VSC  
-
-✅ Developed a **chatbot learning assistant** powered by Transformers.  
-✅ Provided **interactive, context-aware responses** for learning C programming.  
-✅ Delivered a **personalized and engaging educational experience**.  
+### **Languages**
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
 ## 🎓 Education  
 
-🎓 **B.E. – Computer Science & Engineering**  
-📍 Saveetha Engineering College, Chennai (2021 – 2025)  
-⭐ CGPA: **8.34**  
+📘 **B.E. – Computer Science & Engineering**  
+Saveetha Engineering College, Chennai (2021 – 2025)  
+⭐ CGPA: **8.34**
 
-🎓 **HSC (12th)** – JaiGopal Garodia Matric HSS, Chennai (2020 – 2021)  
-⭐ Percentage: **93.40%**  
+📘 **HSC (12th)** – JaiGopal Garodia Matric HSS, Chennai (2020 – 2021)  
+⭐ Percentage: **93.40%**
 
-🎓 **SSLC (10th)** – Radiance Matric HSS, Chennai (2018 – 2019)  
-⭐ Percentage: **87.2%**  
+📘 **SSLC (10th)** – Radiance Matric HSS, Chennai (2018 – 2019)  
+⭐ Percentage: **87.2%**
 
 ---
 
@@ -90,4 +74,15 @@ I love building impactful projects, experimenting with new technologies, and col
 
 ---
 
-⭐ *Crafted with ❤️ by [JayaHari E](https://github.com/jayahari10001)*  
+## 📫 Connect With Me
+<p align="center">
+  <a href="https://github.com/jayahari10001"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/jayahari-e-756281288"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:jayahariexiib@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  ⭐ <i>"Always learning, always building, always growing."</i> ⭐
+</p>
