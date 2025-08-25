@@ -61,19 +61,6 @@ Saveetha Engineering College, Chennai (2021 – 2025)
 
 ---
 
-## 📊 GitHub Analytics  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jayahari10001&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayahari10001&layout=compact&theme=tokyonight" height="150"/>
-</p>  
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayahari10001&theme=tokyonight" height="150"/>
-</p>  
-
----
-
 ## 📫 Connect With Me
 <p align="center">
   <a href="https://github.com/jayahari10001"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
