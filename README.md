@@ -1,61 +1,65 @@
-# 👋 Hey there, I'm JayaHari E  
+<!-- Profile Header -->
+<h1 align="center">👋 Hi, I'm <span style="color:#ff4081">JayaHari E</span></h1>
 
-📍 Chennai, India  
-📧 [jayahariexiib@gmail.com](mailto:jayahariexiib@gmail.com) | 📱 7550162210  
-🌐 [GitHub](https://github.com/jayahari10001) | [LinkedIn](https://www.linkedin.com/in/jayahari-e-756281288)  
+<p align="center">
+  📍 Chennai, India <br>
+  📧 <a href="mailto:jayahariexiib@gmail.com">jayahariexiib@gmail.com</a> | 📱 7550162210 <br>
+  🌐 <a href="https://github.com/jayahari10001">GitHub</a> • <a href="https://www.linkedin.com/in/jayahari-e-756281288">LinkedIn</a>
+</p>
 
 ---
 
-## 🎯 Objective  
-💡 An **aspiring Computer Science Engineer** passionate about solving problems, building impactful projects, and exploring cutting-edge technologies.  
-I aim to leverage my academic background, technical skills, and curiosity to contribute meaningfully to dynamic teams and challenging projects.  
+## 🎯 About Me  
+💡 **Aspiring Computer Science Engineer** passionate about **AI, software development, and problem-solving**.  
+I love building impactful projects, experimenting with new technologies, and collaborating on innovative ideas.  
 
 ---
 
 ## 🛠️ Tech Stack  
 
 <p align="center">
-  <!-- Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="SQL"/>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>  
 
 ---
 
 ## 🚀 Projects  
 
-### 🔹 AI-Driven Insights for Water Quality Prediction (Aug 2023 – Jan 2024)  
+### 🔹 AI-Driven Water Quality Prediction  
+📆 *(Aug 2023 – Jan 2024)*  
 **Tech:** Google Colab, ML Libraries, HTML, CSS, JavaScript  
-- Built an **AI-powered prediction system** using **Random Forest, Logistic Regression, and SVM**.  
-- Developed a **web platform** for stakeholders to monitor water quality, predict contamination risks, and ensure safety in **agriculture & urban planning**.  
+
+✅ Built an **AI-powered system** to predict water contamination risks using **Random Forest, Logistic Regression, and SVM**.  
+✅ Designed a **web-based platform** for real-time monitoring in **agriculture, urban planning, and conservation**.  
 
 ---
 
-### 🔹 CBOT: Chatbot for Learning C Programming (Oct 2022 – Jan 2023)  
+### 🔹 CBOT: Chatbot for Learning C Programming  
+📆 *(Oct 2022 – Jan 2023)*  
 **Tech:** Transformer Architecture, Python, HTML-CSS-JS, VSC  
-- Created a **chatbot learning system** to teach C programming concepts interactively.  
-- Used a **Transformer-based model** trained on C datasets for contextual learning.  
-- Provided an **engaging and personalized learning experience** for students.  
+
+✅ Developed a **chatbot learning assistant** powered by Transformers.  
+✅ Provided **interactive, context-aware responses** for learning C programming.  
+✅ Delivered a **personalized and engaging educational experience**.  
 
 ---
 
 ## 🎓 Education  
 
-📘 **B.E. – Computer Science & Engineering**  
-Saveetha Engineering College, Chennai (2021 – 2025)  
+🎓 **B.E. – Computer Science & Engineering**  
+📍 Saveetha Engineering College, Chennai (2021 – 2025)  
 ⭐ CGPA: **8.34**  
 
-📘 **Higher Secondary Certificate (12th)**  
-JaiGopal Garodia Matriculation HSS, Chennai (2020 – 2021)  
+🎓 **HSC (12th)** – JaiGopal Garodia Matric HSS, Chennai (2020 – 2021)  
 ⭐ Percentage: **93.40%**  
 
-📘 **Secondary School Certificate (10th)**  
-Radiance Matriculation HSS, Chennai (2018 – 2019)  
+🎓 **SSLC (10th)** – Radiance Matric HSS, Chennai (2018 – 2019)  
 ⭐ Percentage: **87.2%**  
 
 ---
@@ -63,29 +67,27 @@ Radiance Matriculation HSS, Chennai (2018 – 2019)
 ## 💼 Internship  
 
 💻 **Web Development Intern** – Connect Info System *(Jan 2023 – Feb 2023)*  
-- Worked on **HTML, CSS, and JavaScript** to design and develop websites.  
+- Designed and developed websites using **HTML, CSS, and JavaScript**.  
 
 ---
 
 ## 🤝 Soft Skills  
 
-- Team Player 🤝  
-- Quick Learner ⚡  
-- Problem Solver 🧩  
+✨ Team Player | ⚡ Quick Learner | 🧩 Problem Solver  
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jayahari10001&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayahari10001&layout=compact&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jayahari10001&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayahari10001&layout=compact&theme=tokyonight" height="150"/>
 </p>  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayahari10001&theme=radical" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayahari10001&theme=tokyonight" height="150"/>
 </p>  
 
 ---
 
-⭐️ *From [JayaHari E](https://github.com/jayahari10001)*  
+⭐ *Crafted with ❤️ by [JayaHari E](https://github.com/jayahari10001)*  
